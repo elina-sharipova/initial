@@ -27,3 +27,5 @@ let tuzik = Dog(name: "tusik")
 // поменяем имя шарику на рудика
 sharik.name = "Rudik"
 sharik.desc()
+
+print("hello github")
